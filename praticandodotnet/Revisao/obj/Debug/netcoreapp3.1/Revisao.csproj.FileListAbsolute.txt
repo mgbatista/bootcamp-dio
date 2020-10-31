@@ -1,0 +1,13 @@
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\my_project_dir\Bootcamp DIO\iniciandodotnet\praticandodotnet\revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
